@@ -3,6 +3,7 @@
 /// More dartdocs go here.
 library;
 
-
+// export 'src/kem/kyber_kem.dart';
+export 'src/sig/sig.dart';
 
 // TODO: Export any libraries intended for clients of this package.
