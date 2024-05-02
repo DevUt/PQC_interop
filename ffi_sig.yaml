@@ -1,0 +1,6 @@
+output: 'lib/src/sig/sig.dart'
+headers:
+  entry-points:
+    - 'liboqs/src/sig/sig.h'
+name: 'SigMethod'
+description: 'Different signature methods'

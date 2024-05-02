@@ -1,0 +1,6 @@
+output: 'lib/src/kem/kem.dart'
+headers:
+  entry-points:
+    - 'liboqs/src/kem/kem.h'
+name: 'KemMethod'
+description: 'Different Key Encapsulation methods'
